@@ -1,0 +1,20 @@
+.logo-img{
+    padding: 15px;
+}
+
+body, .app-header{
+    background-color: #FBD4B1!important;
+}
+
+.btn-primary{
+    background-color: #f27405!important;
+    border-color: #f27405!important;
+}
+
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link, .sidebar-nav ul .sidebar-item.selected>.sidebar-link.active, .sidebar-nav ul .sidebar-item>.sidebar-link.active {
+    background-color: #f27405!important; }
+
+a:hover {
+   color:#f27405!important; ;
+    }
+
